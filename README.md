@@ -2,7 +2,7 @@
 
 Como eu fiz um e-book totalmente com o uso da inteligencia artificial usando 2 sites
 
-ChatGPT: https://chat.openai.com
+ChatGPT: https://chat.openai.com <br>
 hotpot: https://hotpot.ai
 
 1º Defini o assunto: HTML
